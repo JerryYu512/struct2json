@@ -1,0 +1,33 @@
+{
+	"basic": {
+	  "module": {
+		"uuid": "sdfe"
+	  },
+	  "uuid": "wepo"
+	},
+	"device_id": "1",
+	"device_name": "biot 01",
+	"exec_id": "dsf",
+	"module": {
+	  "uuid": "120"
+	},
+	"product": {
+	  "uuid": "789"
+	},
+	"product_l": [
+		{
+		  "uuid": "00"
+		},
+		{
+		  "uuid": "--"
+		},
+		{
+		  "uuid": "++"
+		}
+	],
+	"system": {
+	  "uuid": "456"
+	},
+	"uuid": "123",
+	"version": 2020
+}
